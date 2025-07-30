@@ -4,7 +4,11 @@
 📚 Atualmente estudando e desenvolvendo projetos com foco em **JavaScript**, **React**, **Node.js** e outras tecnologias do ecossistema web.
 
 ---
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagolopessantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolopessantos&layout=compact&langs_count=7&theme=dracula" />
+</div>
+---
 ## 🚀 Tecnologias que venho praticando:
 
 - 💻 HTML | CSS | JavaScript
